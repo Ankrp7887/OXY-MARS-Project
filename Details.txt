@@ -57,17 +57,17 @@ Last Name of Company	- Jobs & Career
 Username		- bitserv
 Email 			- burgeonitservicesptyltdjobsandcareer@sunisbrite.com
 Sector			- IT
-No. of postings done	- 9
+No. of postings done	- 26
 *********************************************************************************************************************************************
-url 			- 
+url 			- https://www.monsterindia.com/search/citi-441847-jobs-career?searchId=faba9c27-e78e-4326-b166-3b8c8f8915ed
 
 My Name			- Ankit Patil
-First Name of Company	- 
+First Name of Company	- Citi
 Last Name of Company	- Jobs & Career
-Username		- 
-Email 			- 
-Sector			- 
-No. of postings done	- 
+Username		- Citi
+Email 			- citijobsandcareer@sunisbrite.com
+Sector			- Bank Jobs
+No. of postings done	- 2454
 *********************************************************************************************************************************************
 url 			- 
 
