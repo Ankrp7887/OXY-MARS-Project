@@ -10,7 +10,7 @@ Username		- arokosol
 First Name of Company	- Arokee Online Solutions
 Last Name of Company	- Jobs and Career
 Sector			- IT Sector                      
-No. of postings done	- 19
+No. of postings done	- 18
 *******************************************************************************************************************************************************************
 First Name 		- Am Tech Networks
 Last Name 		- Jobs & Career
@@ -79,6 +79,46 @@ Username		- neosense
 Email 			- neosensevectortechnologyprivatelimitedjobsandcareers@sunisbrite.com
 Sector			- Education Training
 No. of postings done	- 7
+*********************************************************************************************************************************************
+url 			- https://www.monsterindia.com/search/netquo-services-private-limited-515964-jobs-career?searchId=5dce5818-ec81-4cb1-ac62-211e4e5a407a
+
+My Name			- Ankit Patil
+First Name of Company	- Netquo Services Private Limited
+Last Name of Company	- Jobs & Career
+Username		- netqser
+Email 			- netquoservicesprivatelimitedjobsandcareers@sunisbrite.com
+Sector			- IT
+No. of postings done	- 1
+*********************************************************************************************************************************************
+url 			- https://www.monsterindia.com/search/paypal-442010-jobs-career?searchId=197a490d-57a4-4bd5-8e6b-836494648fce
+
+My Name			- Ankit Patil
+First Name of Company	- Paypal
+Last Name of Company	- Jobs & Career
+Username		- paypal
+Email 			- paypaljobsandcareers@sunisbrite.com
+Sector			- Bank Jobs
+No. of postings done	- 336
+*********************************************************************************************************************************************
+url 			- 
+
+My Name			- Ankit Patil
+First Name of Company	- 
+Last Name of Company	- Jobs & Career
+Username		- 
+Email 			- 
+Sector			- 
+No. of postings done	- 
+*********************************************************************************************************************************************
+url 			- 
+
+My Name			- Ankit Patil
+First Name of Company	- 
+Last Name of Company	- Jobs & Career
+Username		- 
+Email 			- 
+Sector			- 
+No. of postings done	- 
 *********************************************************************************************************************************************
 url 			- 
 
