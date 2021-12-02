@@ -100,25 +100,25 @@ Email 			- paypaljobsandcareers@sunisbrite.com
 Sector			- Bank Jobs
 No. of postings done	- 336
 *********************************************************************************************************************************************
-url 			- 
+url 			- https://www.monsterindia.com/search/quess-corp-limited-327314-jobs-career?searchId=5b9403e1-419e-4bcf-8921-281736e55c9b
 
 My Name			- Ankit Patil
-First Name of Company	- 
+First Name of Company	- Quess Corp Limited
 Last Name of Company	- Jobs & Career
-Username		- 
-Email 			- 
-Sector			- 
-No. of postings done	- 
+Username		- quessc
+Email 			- quessCorpLimited@sunisbrite.com
+Sector			- Business Intelligence Jobs 
+No. of postings done	- 28
 *********************************************************************************************************************************************
-url 			- 
+url 			- https://www.monsterindia.com/search/rakuten-india-enterprises-private-limited-363509-jobs-career?searchId=880c0490-cf1c-4e3d-8ab7-f1bcd4455b79
 
 My Name			- Ankit Patil
-First Name of Company	- 
+First Name of Company	- Rakuten India Enterprises Private Limited
 Last Name of Company	- Jobs & Career
-Username		- 
-Email 			- 
-Sector			- 
-No. of postings done	- 
+Username		- rakuten
+Email 			- rakutenindiaenterprisesprivatelimited@sunisbrite.com
+Sector			- IT
+No. of postings done	- 81
 *********************************************************************************************************************************************
 url 			- 
 
