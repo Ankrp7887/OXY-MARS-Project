@@ -1,3 +1,18 @@
+    # Dummy - 
+First Name 		- Aastha Online Ventures Llp
+Last Name 		- Jobs & Career
+Username 		- asthovl
+Email 			- aasthaonlineventuresllpjobsandcareer@sunisbrite.com
+
+Organization Name	- Aastha Online Ventures Llp
+url 			- https://www.monsterindia.com/search/aastha-online-ventures-llp-524177-jobs-career?searchId=068b4d03-363f-44b3-a29d-cf98c1f2694e
+
+Username		- asthovl
+First Name of Company	- Aastha Online Ventures Llp
+Last Name of Company	- Jobs & Career
+Sector			- Marketing Jobs
+No. of postings done	- 1(Delhi)
+*********************************************************************************************************************************************
 First Name 		- Arokee Online Solutions
 Last Name 		- Jobs & Career
 Username 		- arokosol
@@ -24,21 +39,6 @@ First Name of Company	- Am Tech Networks
 Last Name of Company	- Jobs and Career
 Sector			- IT Sector                      
 No. of postings done	- 1
-*********************************************************************************************************************************************
-    # Dummy - 
-First Name 		- Aastha Online Ventures Llp
-Last Name 		- Jobs & Career
-Username 		- asthovl
-Email 			- aasthaonlineventuresllpjobsandcareer@sunisbrite.com
-
-Organization Name	- Aastha Online Ventures Llp
-url 			- https://www.monsterindia.com/search/aastha-online-ventures-llp-524177-jobs-career?searchId=068b4d03-363f-44b3-a29d-cf98c1f2694e
-
-Username		- asthovl
-First Name of Company	- Aastha Online Ventures Llp
-Last Name of Company	- Jobs & Career
-Sector			- Marketing Jobs
-No. of postings done	- 1(Delhi)
 *********************************************************************************************************************************************
 url 			- https://www.monsterindia.com/search/axel-technologies-private-limited-226645-jobs-career?searchId=ecf96495-ea8a-4e38-9e33-e3b45067176d
 
@@ -118,24 +118,4 @@ Last Name of Company	- Jobs & Career
 Username		- rakuten
 Email 			- rakutenindiaenterprisesprivatelimited@sunisbrite.com
 Sector			- IT
-No. of postings done	- 81
-*********************************************************************************************************************************************
-url 			- 
-
-My Name			- Ankit Patil
-First Name of Company	- 
-Last Name of Company	- Jobs & Career
-Username		- 
-Email 			- 
-Sector			- 
-No. of postings done	- 
-*********************************************************************************************************************************************
-url 			- 
-
-My Name			- Ankit Patil
-First Name of Company	- 
-Last Name of Company	- Jobs & Career
-Username		- 
-Email 			- 
-Sector			- 
-No. of postings done	- 
+No. of postings done	- 84
